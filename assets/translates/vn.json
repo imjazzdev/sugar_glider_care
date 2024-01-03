@@ -1,0 +1,124 @@
+{
+  "helloworld": "Hallo Dunia!",
+  "snackbartxt": "ngôn ngữ đã được thay đổi!",
+  "ternak": "chăn nuôi",
+  "ternakchild": {
+    "attention": "Trước khi nhân giống Sugar Gliders, có những yếu tố phải được xem xét, chẳng hạn như: \n1. Môi trường thoải mái \n2. Nguồn cấp dữ liệu đầy đủ \n3. Chuồng khá rộng rãi và sạch sẽ \n4. Tàu lượn Suger khỏe mạnh \n5. Đảm bảo cả hai đều đang trong thời kỳ động dục (nam 8 tháng tuổi và nữ 9 tháng tuổi). \n",
+    "penjodohan": "mai mối",
+    "kawin": "Kết hôn",
+    "kawin_des": "Nếu khâu mai mối diễn ra suôn sẻ thì chuyện cưới xin chỉ là vấn đề thời gian. Quá trình giao phối thường diễn ra khá lâu kéo dài cả đêm. Vì vậy, hãy cung cấp thức ăn bổ dưỡng để sức chịu đựng của Sugar Glider được duy trì. ",
+    "penjodohan_des": "Lúc đầu, hãy đảm bảo rằng hai Sugar Gliders khớp với nhau, điều này rất quan trọng vì nhiều chủ sở hữu không phối giống được do các yếu tố không phù hợp. \n\nCó thể thực hiện ghép cặp Sugar Glides bằng cách đưa các lồng đực và cái lại gần nhau hơn, thường là trong vòng 1 tuần. Mục đích là để họ thích nghi và làm quen với nhau. \n\nQuá trình mai mối cũng có thể nhanh hơn vì chủ sở hữu bắt buộc phải quan sát Sugar Glider. Nếu thấy ưng và thích (có áp sát và không có đánh) thì có thể nhốt chung Sugar Glider cái vào lồng đực. Sự kết đôi của Sugar Gliders được đánh dấu bằng việc hai người họ vuốt ve cơ thể của nhau. ",
+    "hamil": "Có thai",
+    "hamil_des": "Sau thời kỳ kết hôn, Sugar Glider sẽ trải qua thời gian mang thai khoảng 15-18 ngày. Chính trong quá trình mang thai này, về mặt thể chất chúng ta khó có thể biết rằng Sugar Glider đang mang thai. Thông thường Sugar Glider đang mang thai có đặc điểm là im lặng, giảm cảm giác thèm ăn trong túi và hơi nhạy cảm. ",
+    "melahirkan": "Sinh nở",
+    "melahirkan_des": "Trong quá trình sinh nở này, người mẹ sinh ra đứa con có kích thước bằng hạt gạo. Sau đó, đứa trẻ được dẫn đến dây leo từ bụng mẹ đến túi của mẹ bằng cách liếm nó. Sugar Glider có thể sinh 1-2 con và thậm chí 3 con, nhưng điều đó rất hiếm. ",
+    "ip_des": "Sau khi đứa trẻ được sinh ra và đi vào túi của người mẹ, khối lượng này được gọi là khối lượng trong túi hoặc thường được gọi là IP. Khối lượng IP có chiều dài từ 1,5-2 tháng. Thời gian của Ip phụ thuộc vào số joey trong túi. Joey sẽ ra khỏi túi khi mana không còn vừa trong túi. Thông thường nếu trong túi có 2 joey thì thời gian ip khoảng 1,5 tháng còn nếu chỉ có 1 joey thì thời gian ip khoảng 2 tháng. ",
+    "op_des": "Khối lượng OP là khối lượng mà con joey đã rời khỏi túi nhưng vẫn đang bú mẹ ",
+    "oop_des": "Khi con joey ra khỏi túi và không còn bú nữa, đây được gọi là khối lượng OOP. Nói chung từ giai đoạn này tuổi của SG mới được tính. Và thường joeys bắt đầu tự học."
+  },
+  "makanan": "Đồ ăn",
+  "makananchild": {
+    "attention": "Thực phẩm Sugar Glider nói chung bao gồm: \n",
+    "apel": "1. Quả táo",
+    "apel_des": "Các chất dinh dưỡng có trong táo như vitamin C, nước, carbohydrate, vitamin A, vitamin K, vitamin B1 và ​​vitamin B6 là những chất dinh dưỡng rất tốt cho sức khỏe của tàu lượn. Ngoài việc hầu như không chứa chất béo và ít calo, táo còn rất giàu chất chống oxy hóa và chất xơ, trong khi kết cấu khá cứng của quả rất tốt cho việc kích thích mọc răng của loài động vật biết bay này. Bạn có thể cho táo ăn hai lần một tuần và có thể ăn từng miếng nhỏ hoặc nghiền mà không cần gọt vỏ.",
+    "pepaya": "2. Pawpaw",
+    "pepaya_des": "Không những chứa đủ Vitamin C cao, trái đu đủ còn chứa chất đạm, chất xơ, chất bột đường, Vitamin A, Vitamin B1, Vitamin B3, Vitamin B5, Vitamin E, Vitamin K và Canxi. ",
+    "wortel": "3. Cà rốt",
+    "wortel_des": "Một củ cà rốt chứa khá nhiều nước và carbohydrate. Cà rốt rất giàu vitamin, chẳng hạn như Vitamin A, Vitamin B, Vitamin C, Vitamin E, Vitamin K và hàm lượng Canxi vào khoảng 3%.\n\nCà rốt có thể được phục vụ ở dạng lát tròn mỏng. Nhưng không phải tất cả Sugar Gliders đều thích củ cà rốt này. ",
+    "madu": "4. Em yêu",
+    "madu_des": "Mật ong là thức ăn tự nhiên trong tự nhiên được Sugar Glides ưa chuộng nhất. Mật ong có vị ngọt khác lạ vì chứa đường fructoza và glucoza tốt hơn đường.\n\nHàm lượng calo trong đường có khả năng hấp thụ chất béo nên rất tốt cho việc giảm nguy cơ béo phì ở Sugar Glides.\n \nMật ong có thể được phục vụ với thức ăn bursun, pha vào đồ uống hoặc có thể cho trực tiếp vào Sugar Glider. ",
+    "uh": "5. Sâu róm Hongkong",
+    "uh_des": "Sâu bướm Hongkong (mealworm) là loại sâu bướm mà Sugar Gliders rất thích. Tuy nhiên, không nên cho ăn quá nhiều sâu bướm Hong Kong vì hàm lượng chất béo cao trong sâu bướm Hong Kong có thể gây béo phì ở Sugar Gliders.Có thể cho ăn 2 lần/tuần. ",
+    "jangkrik": "6. Bóng chày",
+    "jangkrik_des": "Trong 100 gam dế có hàm lượng đạm rất cao khoảng 12,9 gam, đủ cung cấp cho 5-10 con dế còn sống, tuần ăn 2-3 lần.",
+    "telurrebus": "8. Trứng luộc",
+    "telurrebus_des": "Trứng luộc là nguồn thực phẩm tuyệt vời với hàm lượng protein cao, đậm đặc dinh dưỡng, rất dễ tiêu thụ nên có thể giúp Sugar Gliders tăng cân nhanh chóng.\n\nMột quả trứng luộc nguyên quả chứa 6g protein và 9 loại axit amin. Hàm lượng dinh dưỡng khá cao đầy đủ, chẳng hạn như carbohydrate, canxi , phốt pho, Vitamin A và Vitamin B.\n\nKhẩu phần đủ cho một hoặc nửa quả trứng luộc đã bóc vỏ và cắt thành miếng nhỏ. ",
+    "kecoadubia": "7. Gián dubia",
+    "kecoadubia_des": "Gián dubia cũng là một trong những lựa chọn của chủ sở hữu cho Sugar Glider yêu quý của họ vì hàm lượng protein cao."
+  },
+  "jenis": "Giống loài",
+  "jenischild": {
+    "cg": "Giống Classic Grey có bộ lông màu xám và một sọc đen kéo dài từ đầu đến lưng, ngoài ra còn có một sọc đen kéo dài từ mắt đến tai.",
+    "wf": "Loại Mặt trắng có hoa văn tương tự như Classic Grey nhưng mặt trắng và không có vệt đen gần tai",
+    "wt": "Loại White Tip này có bộ lông trắng đặc trưng ở chóp đuôi",
+    "rt": "Loại Ringtail này có bộ lông trông giống như màu xám, nhưng có một biến thể màu đen của lông vòng tròn như một chiếc nhẫn trên cái đuôi màu trắng của nó",
+    "mo": "Loại khảm này có sự kết hợp màu sắc giữa loại mặt Leucistic và White với những mảng màu dường như đã bị xóa một phần trên cơ thể",
+    "leu": "Loại Leucistic có bộ lông trắng trơn với đôi mắt đen",
+    "al": "Tương tự như Leucistic, loại Albino này có màu lông trắng với nhãn cầu đỏ do rối loạn di truyền",
+    "plat": "Giống Platinum có màu lông xám nhạt",
+    "bb": "Loại Black Beauty có bộ lông tương tự như Classic Grey nhưng toàn thân có màu sẫm với các đường kẻ dày trên mặt như hòa vào các đường vòng tròn ở mắt.",
+    "creamino": "Loại Creamino có bộ lông màu kem vàng với nhãn cầu màu đỏ",
+    "piebald": "Loại Piebald có dạng vật lý giống như sự kết hợp giữa loại xám cổ điển và loại leuastic",
+    "tpm": "Loại Khảm bạch kim thực sự là một loại tàu lượn đường khảm biến hình"
+  },
+  "perawatan": "BẢO TRÌ",
+  "perawatanchild": {
+    "memandikan": "tắm",
+    "memandikanchild": {
+      "attention": "Những điều cần xem xét trước khi tắm cho tàu lượn Sugar: ",
+      "attention_des": "1. Tàu lượn đường có sức khỏe tốt\n2. Thuần hóa Sugar Glider tốt hơn \n3. Sugar Glider ở trạng thái bình tĩnh và không căng thẳng \n4. Tắm Sugar Glider vào buổi sáng tốt hơn ",
+      "aNb": "Công cụ & Vật liệu",
+      "aNb_des": "1. Khăn ướt không cồn\n2. Cái khăn lau ",
+      "langkah": "Bước chân",
+      "langkah_des": "1. Lấy tàu lượn đường ra khỏi lồng, dùng khăn lau nếu Tàu lượn chưa thuần.\n\n2. Làm cho Sugar Glider cảm thấy an toàn trước tiên bằng cách cọ xát nó.\n\n3. Lau cơ thể của Sugar Glider bằng khăn ướt không cồn ở mọi ngóc ngách.\n\n4. Sau đó, nhẹ nhàng lau tàu lượn đường bằng khăn khô, mềm.\n\n5. Đặt lại tàu lượn vào lồng, để tàu nghỉ ngơi và lau khô cơ thể.\n\nĐừng tắm cho tàu lượn đường quá thường xuyên vì tàu có thể tự làm sạch ."
+    },
+    "potongkuku": "Căt mong",
+    "potongkukuchild": {
+      "attention": "Những điều cần xem xét trước khi cắt móng tay đường lượn: ",
+      "attention_des": "1. Tàu lượn đường có sức khỏe tốt\n2. Thuần hóa Sugar Glider tốt hơn \n3. Sugar Glider ở trạng thái bình tĩnh và không bị căng thẳng",
+      "aNb": "Alat & Bahan",
+      "aNb_des": "1. Bấm móng tay\n2. Túi nhỏ hoặc khăn ",
+      "langkah": "Bước chân",
+      "langkah_des1": "1. Trước tiên hãy làm cho Sugar Glider cảm thấy an toàn bằng cách cọ xát nó.\n\n2. Cho Sugar Glider vào một chiếc túi nhỏ hoặc bạn có thể bọc nó trong một chiếc khăn rồi đem đi cắt phần chân mà bạn muốn cắt móng.",
+      "langkah_des2": "3. Hãy chú ý đến các đường cắt trên móng của tàu lượn đường. Đảm bảo móng của tàu lượn không quá ngắn. Phần móng bị cắt không được chạm vào phần gọi là thịt hay thịt. Chỉ cắt phần sắc nét.\n\n4. Cắt móng của tàu lượn đường bằng bấm móng đã chuẩn bị sẵn, bạn nên cắt bằng bấm móng chuyên dụng cho thú cưng.\n\n5. Sau đó đặt Sugar Glider vào lồng và cho nó ăn thức ăn yêu thích. \n\nCó thể cắt móng tay lượn 2 tuần một lần."
+    },
+    "penyakit": "Bệnh",
+    "penyakitchild": {
+      "attention": "Bệnh của Sugar Glider bao gồm:",
+      "hairloss": "Rụng tóc",
+      "hairloss_des": "Rụng tóc là một loại bệnh đường lượn khiến lông trên cơ thể bị rụng. Thông thường nguyên nhân chính gây ra bệnh này là do điều kiện chuồng trại bẩn, thiếu dinh dưỡng và đạm, stress Để tránh cho Sugar Glider bị rụng lông, nên luôn giữ tình trạng chuồng trại và môi trường xung quanh sạch sẽ. , làm sạch nó ít nhất 2 lần một tuần, đặc biệt là làm sạch túi. ",
+      "diare": "Bệnh tiêu chảy",
+      "diare_des": "Tàu lượn đường bị tiêu chảy sẽ bị rối loạn tiêu hóa, nếu không được điều trị ngay sẽ dẫn đến tử vong. Nguyên nhân chính là do nguồn thức ăn, hoặc cho ăn sai cách. Không nên cho côn trùng ăn quá thường xuyên hoặc cháo quá loãng. Kết hợp thức ăn của tàu lượn với trái cây hoặc loại khác. ",
+      "katarak": "Đục thủy tinh thể",
+      "katarak_des": "Đục thủy tinh thể là do ăn nhiều thức ăn có chứa quá nhiều chất béo khiến dinh dưỡng trong cơ thể không được cân bằng và cũng có thể do tiếp xúc trực tiếp với ánh nắng mặt trời. Căn bệnh này được đặc trưng bởi sự xuất hiện của các đốm trắng trong mắt của tàu lượn, sau đó sẽ lan ra tất cả các mắt cho đến khi cuối cùng chúng bị mù. Do đó, hãy chăm sóc tốt lượng Sugar Glider của bạn. ",
+      "kakibengkak": "Sưng chân",
+      "kakibengkak_des": "Bàn chân của tàu lượn đường bị sưng tấy thường là do nhiễm trùng do vi khuẩn bám vào vết thương ở chân của tàu lượn đường. Bệnh do chuồng nuôi bẩn tạo điều kiện cho vi khuẩn tự do sinh sôi phát triển, nếu không xử lý ngay các vết sưng tấy sẽ bị phân hủy và gây stress cho tàu lượn đường dẫn đến chết. "
+    }
+  },
+  "kelamin": "Giới tính",
+  "kelaminchild": {
+    "attention": "Cách phân biệt giới tính của Sugar Glider: ",
+    "jantan": "Nam giới",
+    "jantan_des": "Tàu lượn đường đực không có túi trên cơ thể. Tàu lượn đường đực có mùi nước tiểu hăng hơn so với tàu lượn đường cái để đánh dấu lãnh thổ của chúng. Khi được khoảng 5 tháng tuổi, tàu lượn đực sẽ có những thay đổi về thể chất, cụ thể là hói trên đỉnh đầu. Càng trưởng thành, tàu lượn đường sẽ có cái đầu hói rõ ràng hơn. Chứng hói đầu này là dấu hiệu cho thấy các tuyến mùi đang bắt đầu phát triển. ",
+    "betina": "Nữ giới",
+    "betina_des": "Tàu lượn cái có túi trên cơ thể. Chiếc túi trên tàu lượn cái dùng để chăm sóc con cái."
+  },
+  "about1": {
+    "about1title": "Là gì Sugar Glider",
+    "about1caption": "Tàu lượn đường (Petaurus breviceps) là một loài động vật nhỏ, ăn tạp, sống trên cây và sống về đêm.",
+    "about1_des": "Tàu lượn đường (Petaurus breviceps) là một loài động vật nhỏ, ăn tạp, sống trên cây và sống về đêm. Con vật này có thể trượt và có túi (Infraclass). Cái tên phổ biến này đề cập đến sở thích của nó đối với các loại thực phẩm ngọt như mật hoa và khả năng lướt trong không khí, giống như một con sóc bay.\n \nCó thể tìm thấy tàu lượn đường ở khắp các vùng phía bắc và phía đông của lục địa Australia, Tasmania, New Guinea và một số đảo có liên quan như Quần đảo Bismarck, Quần đảo Louisiade, và một số đảo ở Indonesia như Quần đảo Halmahera ở Bắc Maluku. \n\nGần đây, loài động vật này rất được ưa chuộng vì là thú cưng dễ thương và đáng yêu. Tuổi của Sugar Glider cũng khá dài, có thể khoảng 10-15 năm. Tàu lượn đường vẫn còn 0-3 tháng tuổi được gọi là Joeys và những người trên độ tuổi đó được gọi là tàu lượn đường trưởng thành"
+  },
+  "about2": {
+    "about2title": "Trước khi bảo trì",
+    "about2caption": "Chuẩn bị trước khi nhận con nuôi",
+    "komitmen": "1. Sự cam kết",
+    "komitmen_des": "Khi duy trì tàu lượn Sugar của chúng tôi với tư cách là chủ sở hữu phải cam kết duy trì nó. Bắt đầu từ việc có thể cung cấp thức ăn bổ dưỡng, chuồng trại rộng rãi, nơi ở thoải mái và cũng như đủ thời gian để giao lưu với thú cưng của chúng ta.",
+    "komunitas": "2. Tham gia vào cộng đồng",
+    "komunitas_des": "Tham gia cộng đồng tàu lượn Sugar thực sự giúp ích cho chủ sở hữu trong việc chăm sóc những con vật độc đáo này. Bởi vì chúng tôi với tư cách là chủ sở hữu có thể tự do đặt câu hỏi hơn về các vấn đề mà chủ sở hữu gặp phải liên quan đến tàu lượn Sugar và được giải đáp trực tiếp bởi những người có kinh nghiệm.",
+    "tips": "3. Mẹo chọn tàu lượn đường",
+    "tips_des": "Muốn nuôi SG thì trước hết phải tìm hiểu cho đúng và đúng đặc điểm của SG. Vì nhiều trường hợp lừa đảo do người bán thiếu trách nhiệm thực hiện, như bán FS (Sóc bay) mà người bán bảo là SG. Cái này cũng do chủ nuôi không cẩn thận, không hiểu rõ về thực tế SG. Hãy tìm người chăn nuôi hoặc nhà lai tạo SG đáng tin cậy. Bạn nên khảo sát trực tiếp tại nhà người chăn nuôi hoặc người bán để có thể xem ngay trước khi con nuôi. Yêu cầu người bán cho người SG xem răng còn nguyên hay đã cắt, nhiều người SG tỉa răng cho đẹp, nhưng những người SG bị cắt nhiều răng thường bị áp xe nên mất cảm giác ngon miệng nên SG sẽ chóng chết \n \nCó thể nhận con SG đã 3 tháng tuổi vì có thể nói là tự lập. Và nếu bạn nhận nuôi SG khi còn nhỏ, SG sẽ gắn bó nhanh chóng và dễ dàng với chủ nhân của nó."
+  },
+  "about3": {
+    "about3title": "Set Up Cái bút",
+    "about3caption": "Một chiếc lồng tốt sẽ ảnh hưởng đến sự thoải mái của tàu lượn. Các thiết lập lồng Sugar Glider nói chung bao gồm:",
+    "pilihkandang": "1. Chọn lồng lý tưởng",
+    "pilihkandang_des": "Có nhiều loại lồng cho SG, nhưng quan trọng nhất là lồng rộng và có lỗ nhỏ. Nhìn chung, chủ nhân sử dụng lồng sắt có kích thước 60x43x43 (LxWxH) vì diện tích lồng này đủ cho một chú Sugar Glider chơi.",
+    "aksesoris": "2. Phụ kiện trong lồng",
+    "aksesoris_des": "Tàu lượn đường là loài động vật sống về đêm hoặc sống về đêm, quen ngủ trên cây khi ở trong tự nhiên. Để giống với môi trường sống tự nhiên và tạo cảm giác thoải mái, chúng tôi có thể cung cấp túi hoặc chuồng chim làm bằng gỗ an toàn.\n\nMột miếng gỗ cũng dùng để mài răng và móng tay của SG. Bằng cách chọn loại gỗ an toàn như bạch đàn, manzanita hoặc gỗ cây táo hoặc gỗ cà phê (tuy nhiên loại gỗ này phải được thay thường xuyên vì nếu tiếp xúc với nước tiểu, gỗ sẽ bị ẩm và lông của tàu lượn sẽ chuyển sang màu vàng nếu tiếp xúc với loại gỗ này) .đừng quên cung cấp chỗ ăn uống cho Sugar Glider nhé. Thường thì chủ quán hay dùng khay nhựa nhỏ để ăn hoặc đĩa nhựa cho chỗ ăn ở SG vì nhẹ và dễ lau chùi. Về chỗ uống nước, chủ nhân thường sử dụng loại bình chuyên dụng dành cho thú cưng núm vú giả vì nó đơn giản và không dễ bị đổ, ngoài ra, tàu lượn đường cũng là loài động vật thông minh nên cần được kích thích để chúng không bị căng thẳng hay trầm cảm. Tình trạng căng thẳng này có thể gây ra các vấn đề sức khỏe khác mà tất nhiên là rất có thể tránh được.Vì vậy, chúng ta có thể thêm đồ chơi để kích thích trí não và thể chất. Một số cũng sử dụng bánh xe quay, xích, v.v. vì vậy chúng sẽ phát triển khỏe mạnh và năng động.",
+    "alas": "3. Rác lồng",
+    "alas_des": "Cũng cần chú ý đến thảm lót chuồng để SG cảm thấy thoải mái và tránh được các loại bệnh tật. Nói chung là chủ cho cát thơm trên nền, coi như bụi bẩn ở SG khá nặng mùi. Cũng có những người sử dụng mùn cưa mịn vì đối tượng này dễ hút ẩm, tuy nhiên nhược điểm của loại mùn cưa này là nhanh bị ẩm và dễ bị phân tán."
+  },
+  "donate": "Quyên tặng",
+  "donate_des": "Đóng góp cho các nhà phát triển bằng cách xem quảng cáo.",
+  "cancel": "Cancel"
+}
